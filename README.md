@@ -1,8 +1,7 @@
-#kislam01.github.io
+# kislam01.github.io
 
-#COMP 20 ASSIGNMENT 1
+This is the repository for my personal website. 
 
-#Total time taken: Approximately 6 hours
+Created on: 01/02/2017 
 
-#Acknowledgments: Online video tutorials on HTML and CSS from Harvard's Intro
-Computer Science course CS50
+
