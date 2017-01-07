@@ -134,15 +134,10 @@ a:focus {
   vertical-align: middle;
 }
 .intro .intro-body .brand-heading {
-  font-size: 33px;
+  font-size: 37px;
 }
 .intro .intro-body .intro-text {
   font-size: 18px;
-}
-@media (min-width: 280px) {
-  .intro .intro-body .brand-heading {
-    font-size:37px;
-  }
 }
 @media (min-width:320px) {
   .intro .intro-body .brand-heading {
